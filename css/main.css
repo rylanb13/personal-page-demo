@@ -34,15 +34,16 @@ header a:focus {
 }
 
 #about, #projects {
-	background-color: #F6D740
+	background-color: #F6D740;
+	overflow: auto;
 }
 
 #education {
-	background-color: #5B2D03
+	background-color: #5B2D03;
 }
 
 footer {
-	background-color: #E2211D
+	background-color: #E2211D;
 }
 
 #about img {
